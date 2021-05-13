@@ -1,0 +1,54 @@
+header{
+    background-color: #94D75B;
+    height: 285px;
+    position: relative;
+}
+h1{
+    font-family: 'Gochi Hand', cursive;
+    text-align: center;
+    font-size: 100px;
+    color: antiquewhite;
+    padding-top: 82px;
+}
+
+.Logo{
+    height: 100px;
+    width: 100px;
+    margin-left: 89%;
+    position: absolute;  
+}
+.Logo img{
+    height: 100%;
+}
+.Principal{
+    width: 100%;
+    margin-left:0px;
+ 
+}
+.Principal img{
+    width: 100%;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+footer{
+    size: 285px;
+    border:solid #94D75B;
+}
+h2{
+    font-family: 'Gochi Hand', cursive;
+    color: #94D75B;
+    text-align: center;
+}
+.Logo1{
+    margin-left: 0px;
+    height: 100px;
+    width: 100px;
+}
+.Logo1 img{
+    height: 100%;
+}
+ul li{
+    list-style: none;
+    margin-left: 500px;
+    display: inline-table;
