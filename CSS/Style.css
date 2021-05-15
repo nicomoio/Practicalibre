@@ -5,8 +5,7 @@
 }
 
 header{
-    background-color: #94D75B;
-    /* background: linear-gradient(to bottom, blue, white 80%, orange); */
+    background: linear-gradient(#388253, #94D75B);
     height: 285px;
     position: relative;
 }
